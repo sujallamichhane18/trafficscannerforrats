@@ -1,0 +1,8 @@
+pyshark
+scikit-learn
+requests
+matplotlib
+pandas
+numpy
+scipy
+yara-python
