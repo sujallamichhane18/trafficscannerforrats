@@ -61,7 +61,8 @@ Anomaly clusters (if found)
 This tool is intended for educational and research purposes. It does not perform full payload sandboxing or APT detection. Use responsibly.
 
 ```
-##👤 Author
+#
+👤 Author
 Sujal Lamichhane
 Cybersecurity & Forensics Researcher
-LinkedIn | GitHub
+
